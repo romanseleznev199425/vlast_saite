@@ -424,7 +424,7 @@ a {
 }
 
 .section__intro::after {
-    content: url(/assets/img/fon/pattern__right.png);
+    content: url(/vlast_saite/assets/img/fon/pattern__right.png);
     position: absolute;
     right: 0;
     top: 0;
@@ -438,7 +438,7 @@ a {
 }
 
 .section__intro::before {
-    content: url(/assets/img/fon/pattern__left.png);
+    content: url(/vlast_saite/assets/img/fon/pattern__left.png);
     position: absolute;
     left: 0;
     top: 0;
@@ -657,7 +657,7 @@ a {
 }
 
 .section__articles::before {
-    content: url(/assets/img/fon/article__left.png);
+    content: url(/vlast_saite/assets/img/fon/article__left.png);
     position: absolute;
     top: -10%;
     left: 0;
@@ -671,7 +671,7 @@ a {
 }
 
 .section__articles::after {
-    content: url(/assets/img/fon/article__right.png);
+    content: url(/vlast_saite/assets/img/fon/article__right.png);
     position: absolute;
     bottom: -10%;
     right: 0;
@@ -1051,7 +1051,7 @@ a {
 }
 
 .section__notifi::before {
-    content: url(/assets/img/fon/notifi__left.png);
+    content: url(/vlast_saite/assets/img/fon/notifi__left.png);
     position: absolute;
     top: -20%;
     left: 0;
@@ -1059,7 +1059,7 @@ a {
 }
 
 .section__notifi::after {
-    content: url(/assets/img/fon/notifi__right.png);
+    content: url(/vlast_saite/assets/img/fon/notifi__right.png);
     position: absolute;
     bottom: -30%;
     right: 0;
@@ -1129,7 +1129,7 @@ a {
 }
 
 .section__notifi .notifi__container .container_notifi .notifi__item .item__wraper::before {
-    content: url(/assets/img/icons/notifi.svg);
+    content: url(/vlast_saite/assets/img/icons/notifi.svg);
 }
 
 @media screen and (max-width: 480px) {
@@ -1310,7 +1310,7 @@ a {
 }
 
 .section__new_materials::before {
-    content: url(/assets/img/fon/material__left.png);
+    content: url(/vlast_saite/assets/img/fon/material__left.png);
     position: absolute;
     top: -20%;
     left: 0;
@@ -1324,7 +1324,7 @@ a {
 }
 
 .section__new_materials::after {
-    content: url(/assets/img/fon/material__right.png);
+    content: url(/vlast_saite/assets/img/fon/material__right.png);
     position: absolute;
     bottom: -20%;
     right: 0;
