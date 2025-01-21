@@ -1022,7 +1022,7 @@ a {
 }
 
 .chapter__container .swiper__chapter .swiper-wrapper .swiper-slide .item__link::after {
-    content: url(/assets/img/icons/arrow.svg);
+    content: url(assets/img/icons/arrow.svg);
 }
 
 @media screen and (max-width: 560px) {
