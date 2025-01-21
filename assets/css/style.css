@@ -1,24 +1,6 @@
 @charset "UTF-8";
 /*Общие */
-@font-face {
-    font-family: "Montserrat";
-  src: local("Montserrat-Bold"), url("../assets/fonts/Montserrat/Montserrat-Bold.ttf"), url("../assets/fonts/Montserrat/Montserrat-Bold.woff");
-}
-
-@font-face {
-    font-family: "Montserrat";
-  src: local("Montserrat-Light"), url("../assets/fonts/Montserrat/Montserrat-Light.ttf"), url("../assets/fonts/Montserrat/Montserrat-Light.woff");
-}
-
-@font-face {
-    font-family: "Montserrat";
-  src: local("Montserrat-Medium"), url("../assets/fonts/Montserrat/Montserrat-Medium.ttf"), url("../assets/fonts/Montserrat/Montserrat-Medium.woff");
-}
-
-@font-face {
-    font-family: "Montserrat";
-  src: local("Montserrat-Regular"), url("../assets/fonts/Montserrat/Montserrat-Regular.ttf"), url("../assets/fonts/Montserrat/Montserrat-Regular.woff");
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
     font-family: "Montserrat", serif;
