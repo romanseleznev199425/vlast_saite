@@ -1061,7 +1061,7 @@ a {
 .section__notifi::after {
     content: url(/vlast_saite/assets/img/fon/notifi__right.png);
     position: absolute;
-    bottom: -30%;
+    bottom: -20%;
     right: 0;
     z-index: 1;
 }
