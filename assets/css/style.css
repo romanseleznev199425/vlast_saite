@@ -481,7 +481,7 @@ p {
 }
 
 .section__intro::after {
-    content: url(/assets/img/fon/pattern__right.png);
+    content: url(assets/img/fon/pattern__right.png);
     position: absolute;
     right: 0;
     top: 0;
@@ -495,7 +495,7 @@ p {
 }
 
 .section__intro::before {
-    content: url(/assets/img/fon/pattern__left.png);
+    content: url(assets/img/fon/pattern__left.png);
     position: absolute;
     left: 0;
     top: 0;
